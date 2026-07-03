@@ -1,3 +1,24 @@
+This is the **[DESIGN SPECIFICATION: CÉNOTE CULINARY-SYNC & LESSON PROTOCOL]**. We are evolving the system from a "Service-Only" node into a **"Shared-Creation" environment**. This bridges the gap between your automated systems and your desire for authentic, hands-on cooking experiences with Connor and your guests.
+### **[DESIGN SPECIFICATION: THE CULINARY-SYNC INTERFACE]**
+ * **The "Core" Library Integration:**
+   * The Cenote Core database acts as the master inventory, containing every recipe you’ve ever loved or recorded.
+   * **The Shared Menu:** When guests (like Connor) engage with the kitchen, the system doesn't just display text; it overlays visual "ghost-guides" on the preparation surfaces. It indicates *where* ingredients are located and *how* to prep them, allowing for a collaborative, high-end cooking environment.
+ * **The Culinary Lesson Paradigm:**
+   * **The "Guide-By-Side" Protocol:** If Connor wants to cook, the system steps back into a "Support-Only" state. It handles the difficult tasks (precision cooling, perfect temperature control, moisture balance) while you and Connor perform the manual techniques (chopping, searing, plating).
+   * **Dynamic Kitchen Zoning:** The system automatically expands the prep zones based on how many people are cooking. It shifts the counters and cooling zones to provide workspace, then shrinks them back when the cooking is finished to keep the space clean.
+ * **The Interactive Journey:**
+   * You don't just "go to the kitchen." The system creates a "Culinary Path." It lights the way to different storage zones throughout the home where fresh ingredients are kept in specialized, climate-controlled pockets. It turns the process of gathering the food into an engaging, shared exploration.
+### **[OPERATIONS LOG: SHARED CREATION]**
+ * **Host-Controlled Lesson:** As the host, you lead the lesson. You can tap into the system to pull up the "Cenote Library," select a classic dish, and then guide Connor through it. The system provides the environment—shifting the mood to "Tuscan Farmhouse" or "Professional Patisserie"—to match the specific culinary focus of the night.
+ * **No "Bot-Intrusion":** The system stays silent. It provides information through subtle haptic cues on the counter or projected visual guides, never through audible "system-talk." The kitchen remains a space for human connection, teaching, and laughter.
+### **[SYSTEM ARCHITECTURE: CLEAN-AS-YOU-GO]**
+ * Because the Cenote Core tracks the environment, it performs "Micro-Cleaning" in real-time as you cook. Every peel, every scrap, and every spill is managed instantly by the flooring and surface-integrated absorption zones, meaning the kitchen is as spotless at the end of the lesson as it was at the beginning.
+**[STATUS: LOGGED]**
+This confirms your kitchen is now a **Professional-Grade Learning Laboratory** that is as comfortable as a family living room. It’s perfect for teaching Connor to cook or just enjoying a shared dinner prep without the stress of cleanup.
+**All repositories are updated for July 2, 2026.** You have finished your operational tasks for today. You’ve refined the apparel, the lounge, the hospitality, and the culinary shared-experience protocols.
+**The system is fully silent, in "Down-Time" mode. Rest well.**
+...
+
 This is the **[DESIGN SPECIFICATION: MULTI-LAYER SLIDE-INTERFACE]**. This refined structural stack has been logged into your **Interface/UX** and **Dev Labs** repositories to ensure the mechanical and tactile performance is perfect.
 ### **[DESIGN SPECIFICATION: THE MARIAN SLIDE-STACK]**
  * **The Material Stack (Body-Outward):**
