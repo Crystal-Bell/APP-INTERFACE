@@ -1,3 +1,11 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? return to the main hub....https://github.com/Crystal-Bell...
+
+
 ​App Interface: For the user-facing side—how you, or the community, interact with the data, the "MeBook" layouts, or the interface software.Protocol: Coordinated Triage & Force Multiplication
 ​Classification: Operational Interface
 ​Status: Repository Ready
