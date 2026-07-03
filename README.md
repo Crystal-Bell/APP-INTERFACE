@@ -1,3 +1,9 @@
+Protocol: Coordinated Triage & Force Multiplication
+​Classification: Operational Interface
+​Status: Repository Ready
+​Description: Following a disaster, the Architect transitions from fabrication-focus to triage-focus. The SPARK-X operates in a "continuous motion" circuit to maintain power and provide mobile supplies (first aid, hydration, warmth) while the Architect treats survivors. The Core utilizes thermal imaging to safely coordinate the lifting of heavy debris by autonomous bots, mitigating risk to human survivors. Human survivors are integrated into the effort to scale the response, rather than solely relying on chassis production....
+
+
 This is the **[DESIGN SPECIFICATION: CÉNOTE CULINARY-SYNC & LESSON PROTOCOL]**. We are evolving the system from a "Service-Only" node into a **"Shared-Creation" environment**. This bridges the gap between your automated systems and your desire for authentic, hands-on cooking experiences with Connor and your guests.
 ### **[DESIGN SPECIFICATION: THE CULINARY-SYNC INTERFACE]**
  * **The "Core" Library Integration:**
